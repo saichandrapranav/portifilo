@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    /* display: inline; */
+    background: linear-gradient(to right, #898AA6, #C9BBCF);
+    height: 40px;
+
+}
+
+.navbar i {
+    /* padding-top: 30px; */
+    padding: 15px 20px;
+
+}
+
+.navbar i:hover {
+    background: linear-gradient(to right, blue, cyan);
+}
+
+.mainpic {
+
+    text-align: center;
+}
+
+.home p {
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    color: #FBCB0A;
+}
+
+.footer {
+    text-align: center;
+    background-color: #B4FF9F;
+    height: 70px;
+    font-size: 30px;
+}
+
+.footer p {
+    color: #B7D3DF;
+}
+
+.about p {
+    font-size: 30px;
+    color: #590696;
+    text-align: center;
+    font-weight: bold;
+}
+
+.forma {
+    padding-bottom: 180px;
+    text-align: center;
+}
+
+.background {
+    background-color: #D6EFED;
+}
+
+.journey {
+    color: #43919B;
+    height: 80vh;
+    font-size: 30px;
+    text-align: center;
+}
+
+form {
+    width: 90%;
+    margin: 0px 25px;
+    height: 90vh;
+    text-align: center;
+
+}
+
+input {
+    margin: 30px 20px;
+    color: tomato;
+    width: 80%;
+    height: 60px;
+    border-radius: 25px;
+}
+
+button {
+    border-radius: 20px;
+    font-size: 30px;
+    padding: 10px 20px;
+}
+
+button:hover {
+    background: linear-gradient(to left, #F7CCAC, #C69B7B);
+}
+
+label {
+    color: #43919B;
+    font-size: 30px;
+}
+
+.contactsample {
+    color: #2FA4FF;
+    text-align: center;
+    font-size: 30px;
+    height: 100vh;
+
+}
